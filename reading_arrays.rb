@@ -28,7 +28,7 @@ STUDENT_NAMES.last
 end
 
 def first_second_and_third_students
-  STUDENT_NAMES.first
-  STUDENT_NAMES.second
-  STUDENT_NAMES.third
+  STUDENT_NAMES[0]
+  STUDENT_NAMES[1]
+  STUDENT_NAMES.[2]
 end
